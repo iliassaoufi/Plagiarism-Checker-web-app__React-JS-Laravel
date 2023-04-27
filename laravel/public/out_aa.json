@@ -1,0 +1,1 @@
+[[0.9660917830792959, "The Storage facade may be used to interact with any of your configured disks ", -1], [1.0, "For example, you may use the put method on the facade to store an avatar on the default disk ", -1], [0.5694947974514994, "If you call methods on the Storage facade without first calling the disk method, the method will automatically be passed to the default ", 0]]
