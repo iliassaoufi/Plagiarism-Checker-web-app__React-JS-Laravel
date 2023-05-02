@@ -1,8 +1,6 @@
 # Plagiarism-check-web-app__ReactJS-Laravel
 
-I developed REST APIs for a plagiarism software with PHP Laravel as backend.
-
-Built a front end web application using React JS also Desktop application using Electon JS, providing a user friendly interfaces to access and analyze plagiarism data and documents
+I developed REST APIs for a plagiarism software with PHP Laravel as backend, and I built a front-end web application using React JS also Desktop application using Electon JS, providing a user friendly interfaces to access and analyze plagiarism data and documents
 
 
 The complete documentation is coming soon
